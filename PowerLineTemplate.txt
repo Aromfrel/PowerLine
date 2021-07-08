@@ -40,7 +40,7 @@
 |  LEIBNIZ INTEGRAL RULE		|
 |					|
   The Leibniz integral rule states
-  that it the following holds:
+  that the following holds:
           _b(x)
     d/dx(∫_a(x) f(x,t)∙dt) =
 
