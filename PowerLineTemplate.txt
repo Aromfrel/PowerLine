@@ -1,0 +1,100 @@
+1Tab	2Tab	3Tab	4Tab	5Tab	6Tab
+ _______________________________________
+|					|1	
+|  					|2
+|					|3  
+   TITLE OF THE PRESENTATION
+     Author Name
+     Date
+|					|n-2
+|				I	|n-1
+|_______________________________________|n(min = 9, max = inf)
+
+ _______________________________________
+|					|
+|  AGENDA				|
+|  					|
+    > Item 1
+    > Item 2
+    > Item 3
+|					|
+|				II	|
+|_______________________________________|
+
+ _______________________________________
+|					|
+|  LEIBNIZ INTEGRAL RULE		|
+|					|
+  Let it be the following integral:
+     _b(x)
+    ∫_a(x) f(x,t)∙dt
+
+  with
+    -∞ < a(x), b(x) < ∞.  
+|					|
+|				III	|
+|_______________________________________|
+
+ _______________________________________
+|					|
+|  LEIBNIZ INTEGRAL RULE		|
+|					|
+  The Leibniz integral rule states
+  that it the following holds:
+          _b(x)
+    d/dx(∫_a(x) f(x,t)∙dt) =
+
+	f(x,b(x))∙d/dx b(x) - 
+	
+	f(x,a(x))∙d/dx a(x) +
+
+	 _b(x)
+	∫_a(x) ∂/∂x f(x,t)∙dt).
+|					|
+|				IV	|
+|_______________________________________|
+
+ _______________________________________
+|					|
+|  LEIBNIZ INTEGRAL RULE		|
+|					|
+  If limits a and b do not depend on x, 
+  then:
+          _b
+    d/dx(∫_a f(x,t)∙dt) =
+
+	 _b
+	∫_a ∂/∂x f(x,t)∙dt)
+|					|
+|				V	|
+|_______________________________________|
+
+ _______________________________________
+|					|
+|  REFERENCES				|
+|  					|
+   [1] Socrates, 350 BC
+   [2] Smith and John, 1995
+   [3] Simpson H.m 1982
+|					|
+|				II	|
+|_______________________________________|
+
+ _______________________________________
+|					|
+|					|
+|  					|
+
+	      THANK YOU!
+
+|					|
+|				M	|
+|_______________________________________|
+
+Some characters https://copychar.cc/symbols/
+
+↑←↓→↔CO₂
+αβγδωσρλμ
+∫∂×∙±≠⋜⋝≃∴∞♾️
+☷
+░▒▓
